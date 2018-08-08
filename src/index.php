@@ -16,7 +16,7 @@
             <ul>
               <li><a class="home-link" href="http://playlistify.hariby.io/">Home</a></li>
               <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
-              <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
+              <li><a href="https://player.hariby.io/">Player</a></li>
               <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
             </ul>
         </nav>
