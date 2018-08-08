@@ -11,7 +11,16 @@
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
-
+    <header>
+        <nav class="website-nav">
+            <ul>
+              <li><a class="home-link" href="http://playlistify.hariby.io/">Home</a></li>
+              <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
+              <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
+              <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
     <body>
         <div class="container">
             <div class="hero-unit">
